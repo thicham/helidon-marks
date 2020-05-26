@@ -15,7 +15,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>demo.gestion.notes</groupId>
-	<artifactId>demo-gestion-notes-mp</artifactId>
+	<artifactId>helidon-marks</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>${project.artifactId}</name>
